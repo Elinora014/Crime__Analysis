@@ -22,5 +22,6 @@ Key dimensions for breaking down the analysis were identified, leading to the cr
 - Date Dimension
 - Offense Dimension
 - Crimefact Table
-  Metrix Table The data model was structured using a Star Schema, where multiple dimension tables were linked to the central Fact table through one-to-many relationships.
+-  Metrix Table
+  The data model was structured using a Star Schema, where multiple dimension tables were linked to the central Fact table through one-to-many relationships.
   
