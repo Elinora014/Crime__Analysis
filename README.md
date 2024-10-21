@@ -17,3 +17,10 @@ In recent years, the surge in crime rates has posed significant challenges for l
 The dataset underwent comprehensive cleaning, which included the removal of duplicates, the creation of additional columns by extracting relevant data, the correction of inconsistencies, and the formatting of the data to ensure it was suitable for both analysis and visualization.
 
 # Data modeling
+Key dimensions for breaking down the analysis were identified, leading to the creation of new tables corresponding to each dimension. These include the following tables:
+- Location Dimennsion
+- Date Dimension
+- Offense Dimension
+- Crimefact Table
+  Metrix Table The data model was structured using a Star Schema, where multiple dimension tables were linked to the central Fact table through one-to-many relationships.
+  
