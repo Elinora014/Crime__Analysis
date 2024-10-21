@@ -14,4 +14,6 @@ In recent years, the surge in crime rates has posed significant challenges for l
 - [Crime Dataset](https://docs.google.com/spreadsheets/d/1WQ-oucMeizVOPiLD9WlyFAnBejeHyGsFHIZjs0cawLU/edit?usp=sharing)
 - [Data Dictionary](https://docs.google.com/document/d/1931IJpxFdsm9XS15EMpSNrRXQzbcnbl2MDq0p1cQULc/edit?usp=sharing)
 # Data transformation and cleaning
+The dataset underwent comprehensive cleaning, which included the removal of duplicates, the creation of additional columns by extracting relevant data, the correction of inconsistencies, and the formatting of the data to ensure it was suitable for both analysis and visualization.
+-
 # Data modeling
