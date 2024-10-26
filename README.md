@@ -17,10 +17,15 @@ In recent years, the surge in crime rates has posed significant challenges for l
 # Data transformation and cleaning
 The dataset underwent comprehensive cleaning, which included the removal of duplicates, the creation of additional columns by extracting relevant data, the correction of inconsistencies, and the formatting of the data to ensure it was suitable for both analysis and visualization.
 
+-Data Before cleaning
+
+
 
 ![Before Cleaning](https://github.com/user-attachments/assets/9688d3c6-f074-44ea-b644-f1961837aeb1)
 
 
+
+Data After cleaning
 
 
 
