@@ -53,20 +53,21 @@ Key dimensions for breaking down the analysis were identified, leading to the cr
 
 This visualization is a comprehensive crime analysis dashboard, highlighting key crime trends and statistics over time, categorized by various factors. Here are the main takeaways:
 
-Trends Over Time:
+- Trends Over Time:
 
 Total crime has generally increased from 2012/13 to 2022/23, peaking in recent years, with some fluctuations.
 Quarterly trends show consistency across financial years, with noticeable dips in some years (e.g., 2020/21, potentially due to external factors like the pandemic).
 
-Total Crime:
+- Total Crime:
 
 Total crime recorded is 60 million.
 Average crime per year is 230 incidents, with a year-on-year growth rate of 2.9%.
-Crime by CSP Name:
+
+- Crime by CSP Name:
 
 Harrogate has the highest crime rate among Community Safety Partnerships (CSPs), significantly ahead of others like South Devon and Basildon.
 
-Crime by Region:
+- Crime by Region:
 
 The South East region leads in total crime, followed by Yorkshire and the Eastern region.
 Crime by Offence Group:
