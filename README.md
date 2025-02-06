@@ -46,7 +46,7 @@ Key dimensions for breaking down the analysis were identified, leading to the cr
 ![Data Model](https://github.com/user-attachments/assets/cfc6bfa3-3719-49b8-a79c-4e843085ba87)
 
 
-# Visualization
+# Visualization and Insights 
 
 ![Screenshot 2025-02-04 134932](https://github.com/user-attachments/assets/b854add7-40ba-48c3-972b-f3fe12f85d31)
 
